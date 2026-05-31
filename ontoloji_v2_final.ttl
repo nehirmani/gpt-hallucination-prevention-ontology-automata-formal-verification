@@ -1,0 +1,729 @@
+@prefix ns: <http://nobelproje.org/> .
+
+ns:Abdus_Salam ns:isim "Abdus Salam" ;
+    ns:nobelDali "Nobel Prize in Physics" ;
+    ns:nobelYili "1979" ;
+    ns:wikidataID "Q28189" .
+
+ns:Ada_Yonath ns:isim "Ada Yonath" ;
+    ns:nobelDali "Nobel Prize in Chemistry" ;
+    ns:nobelYili "2009" ;
+    ns:wikidataID "Q7426" .
+
+ns:Adolf_Butenandt ns:isim "Adolf Butenandt" ;
+    ns:nobelDali "Nobel Prize in Chemistry" ;
+    ns:nobelYili "1939" ;
+    ns:wikidataID "Q5327" .
+
+ns:Adolf_von_Baeyer ns:isim "Adolf von Baeyer" ;
+    ns:nobelDali "Nobel Prize in Chemistry" ;
+    ns:nobelYili "1905" ;
+    ns:wikidataID "Q57078" .
+
+ns:Ahmed_Zewail ns:isim "Ahmed Zewail" ;
+    ns:nobelDali "Nobel Prize in Chemistry" ;
+    ns:nobelYili "1999" ;
+    ns:wikidataID "Q106624" .
+
+ns:Akira_Suzuki ns:isim "Akira Suzuki" ;
+    ns:nobelDali "Nobel Prize in Chemistry" ;
+    ns:nobelYili "2010" ;
+    ns:wikidataID "Q105949" .
+
+ns:Alan_J._Heeger ns:isim "Alan J. Heeger" ;
+    ns:nobelDali "Nobel Prize in Chemistry" ;
+    ns:nobelYili "2000" ;
+    ns:wikidataID "Q106751" .
+
+ns:Alan_MacDiarmid ns:isim "Alan MacDiarmid" ;
+    ns:nobelDali "Nobel Prize in Chemistry" ;
+    ns:nobelYili "2000" ;
+    ns:wikidataID "Q110942" .
+
+ns:Albert_Einstein ns:isim "Albert Einstein" ;
+    ns:nobelDali "Nobel Prize in Physics" ;
+    ns:nobelYili "1921" ;
+    ns:wikidataID "Q937" .
+
+ns:Albert_Fert ns:isim "Albert Fert" ;
+    ns:nobelDali "Nobel Prize in Physics" ;
+    ns:nobelYili "2007" ;
+    ns:wikidataID "Q153219" .
+
+ns:Albrecht_Kossel ns:isim "Albrecht Kossel" ;
+    ns:nobelDali "Nobel Prize in Physiology or Medicine" ;
+    ns:nobelYili "1910" ;
+    ns:wikidataID "Q57128" .
+
+ns:Alexander_Fleming ns:isim "Alexander Fleming" ;
+    ns:nobelDali "Nobel Prize in Physiology or Medicine" ;
+    ns:nobelYili "1945" ;
+    ns:wikidataID "Q37064" .
+
+ns:Alfred_Werner ns:isim "Alfred Werner" ;
+    ns:nobelDali "Nobel Prize in Chemistry" ;
+    ns:nobelYili "1913" ;
+    ns:wikidataID "Q123014" .
+
+ns:Archer_John_Porter_Martin ns:isim "Archer John Porter Martin" ;
+    ns:nobelDali "Nobel Prize in Chemistry" ;
+    ns:nobelYili "1952" ;
+    ns:wikidataID "Q48977" .
+
+ns:Benjamin_List ns:isim "Benjamin List" ;
+    ns:nobelDali "Nobel Prize in Chemistry" ;
+    ns:nobelYili "2021" ;
+    ns:wikidataID "Q105572" .
+
+ns:Bernard_Katz ns:isim "Bernard Katz" ;
+    ns:nobelDali "Nobel Prize in Physiology or Medicine" ;
+    ns:nobelYili "1970" ;
+    ns:wikidataID "Q4517" .
+
+ns:Carl_David_Anderson ns:isim "Carl David Anderson" ;
+    ns:nobelDali "Nobel Prize in Physics" ;
+    ns:nobelYili "1936" ;
+    ns:wikidataID "Q169366" .
+
+ns:Carol_Greider ns:isim "Carol Greider" ;
+    ns:nobelDali "Nobel Prize in Physiology or Medicine" ;
+    ns:nobelYili "2009" ;
+    ns:wikidataID "Q26322" .
+
+ns:Carolyn_Bertozzi ns:isim "Carolyn Bertozzi" ;
+    ns:nobelDali "Nobel Prize in Chemistry" ;
+    ns:nobelYili "2022" ;
+    ns:wikidataID "Q7442" .
+
+ns:Charles_Glover_Barkla ns:isim "Charles Glover Barkla" ;
+    ns:nobelDali "Nobel Prize in Physics" ;
+    ns:nobelYili "1917" ;
+    ns:wikidataID "Q160522" .
+
+ns:Charles_K._Kao ns:isim "Charles K. Kao" ;
+    ns:nobelDali "Nobel Prize in Physics" ;
+    ns:nobelYili "2009" ;
+    ns:wikidataID "Q16389" .
+
+ns:Charles_Thomson_Rees_Wilson ns:isim "Charles Thomson Rees Wilson" ;
+    ns:nobelDali "Nobel Prize in Physics" ;
+    ns:nobelYili "1927" ;
+    ns:wikidataID "Q162900" .
+
+ns:Christiane_Nüsslein-Volhard ns:isim "Christiane Nüsslein-Volhard" ;
+    ns:nobelDali "Nobel Prize in Physiology or Medicine" ;
+    ns:nobelYili "1995" ;
+    ns:wikidataID "Q77174" .
+
+ns:Cyril_Norman_Hinshelwood ns:isim "Cyril Norman Hinshelwood" ;
+    ns:nobelDali "Nobel Prize in Chemistry" ;
+    ns:nobelYili "1956" ;
+    ns:wikidataID "Q48986" .
+
+ns:Dan_Shechtman ns:isim "Dan Shechtman" ;
+    ns:nobelDali "Nobel Prize in Chemistry" ;
+    ns:nobelYili "2011" ;
+    ns:wikidataID "Q44111" .
+
+ns:David_Gross ns:isim "David Gross" ;
+    ns:nobelDali "Nobel Prize in Physics" ;
+    ns:nobelYili "2004" ;
+    ns:wikidataID "Q40262" .
+
+ns:Dennis_Gabor ns:isim "Dennis Gabor" ;
+    ns:nobelDali "Nobel Prize in Physics" ;
+    ns:nobelYili "1971" ;
+    ns:wikidataID "Q155786" .
+
+ns:Donald_J._Cram ns:isim "Donald J. Cram" ;
+    ns:nobelDali "Nobel Prize in Chemistry" ;
+    ns:nobelYili "1987" ;
+    ns:wikidataID "Q135151" .
+
+ns:Dorothy_Hodgkin ns:isim "Dorothy Hodgkin" ;
+    ns:nobelDali "Nobel Prize in Chemistry" ;
+    ns:nobelYili "1964" ;
+    ns:wikidataID "Q7487" .
+
+ns:Eduard_Buchner ns:isim "Eduard Buchner" ;
+    ns:nobelDali "Nobel Prize in Chemistry" ;
+    ns:nobelYili "1907" ;
+    ns:wikidataID "Q43917" .
+
+ns:Edward_Victor_Appleton ns:isim "Edward Victor Appleton" ;
+    ns:nobelDali "Nobel Prize in Physics" ;
+    ns:nobelYili "1947" ;
+    ns:wikidataID "Q153194" .
+
+ns:Edwin_McMillan ns:isim "Edwin McMillan" ;
+    ns:nobelDali "Nobel Prize in Chemistry" ;
+    ns:nobelYili "1951" ;
+    ns:wikidataID "Q19009" .
+
+ns:Ei-ichi_Negishi ns:isim "Ei-ichi Negishi" ;
+    ns:nobelDali "Nobel Prize in Chemistry" ;
+    ns:nobelYili "2010" ;
+    ns:wikidataID "Q105927" .
+
+ns:Elias_James_Corey ns:isim "Elias James Corey" ;
+    ns:nobelDali "Nobel Prize in Chemistry" ;
+    ns:nobelYili "1990" ;
+    ns:wikidataID "Q135171" .
+
+ns:Elizabeth_Blackburn ns:isim "Elizabeth Blackburn" ;
+    ns:wikidataID "Q26321" .
+
+ns:Emil_Fischer ns:isim "Emil Fischer" ;
+    ns:nobelDali "Nobel Prize in Chemistry" ;
+    ns:nobelYili "1902" ;
+    ns:wikidataID "Q70554" .
+
+ns:Emil_von_Behring ns:isim "Emil von Behring" ;
+    ns:nobelDali "Nobel Prize in Physiology or Medicine" ;
+    ns:nobelYili "1901" ;
+    ns:wikidataID "Q76425" .
+
+ns:Enrico_Fermi ns:isim "Enrico Fermi" ;
+    ns:nobelDali "Nobel Prize in Physics" ;
+    ns:nobelYili "1938" ;
+    ns:wikidataID "Q8753" .
+
+ns:Ernest_Lawrence ns:isim "Ernest Lawrence" ;
+    ns:nobelDali "Nobel Prize in Physics" ;
+    ns:nobelYili "1939" ;
+    ns:wikidataID "Q169577" .
+
+ns:Ernest_Rutherford ns:isim "Ernest Rutherford" ;
+    ns:nobelDali "Nobel Prize in Chemistry" ;
+    ns:nobelYili "1908" ;
+    ns:wikidataID "Q9123" .
+
+ns:Ernst_Chain ns:isim "Ernst Chain" ;
+    ns:wikidataID "Q58054" .
+
+ns:Ernst_Otto_Fischer ns:isim "Ernst Otto Fischer" ;
+    ns:nobelDali "Nobel Prize in Chemistry" ;
+    ns:nobelYili "1973" ;
+    ns:wikidataID "Q44594" .
+
+ns:Erwin_Schrödinger ns:isim "Erwin Schrödinger" ;
+    ns:nobelDali "Nobel Prize in Physics" ;
+    ns:nobelYili "1933" ;
+    ns:wikidataID "Q9130" .
+
+ns:Eugene_Wigner ns:isim "Eugene Wigner" ;
+    ns:nobelDali "Nobel Prize in Physics" ;
+    ns:nobelYili "1963" ;
+    ns:wikidataID "Q155790" .
+
+ns:F._Sherwood_Rowland ns:isim "F. Sherwood Rowland" ;
+    ns:nobelDali "Nobel Prize in Chemistry" ;
+    ns:nobelYili "1995" ;
+    ns:wikidataID "Q111190" .
+
+ns:Feodor_Felix_Konrad_Lynen ns:isim "Feodor Felix Konrad Lynen" ;
+    ns:wikidataID "Q44597" .
+
+ns:François_Englert ns:isim "François Englert" ;
+    ns:nobelDali "Nobel Prize in Physics" ;
+    ns:nobelYili "2013" ;
+    ns:wikidataID "Q151746" .
+
+ns:Frederick_Soddy ns:isim "Frederick Soddy" ;
+    ns:nobelDali "Nobel Prize in Chemistry" ;
+    ns:nobelYili "1921" ;
+    ns:wikidataID "Q102830" .
+
+ns:Fritz_Haber ns:isim "Fritz Haber" ;
+    ns:nobelDali "Nobel Prize in Chemistry" ;
+    ns:nobelYili "1918" .
+
+ns:Frédéric_Joliot-Curie ns:isim "Frédéric Joliot-Curie" ;
+    ns:nobelDali "Nobel Prize in Chemistry" ;
+    ns:nobelYili "1935" ;
+    ns:wikidataID "Q150989" .
+
+ns:George_Paget_Thomson ns:isim "George Paget Thomson" ;
+    ns:nobelDali "Nobel Prize in Physics" ;
+    ns:nobelYili "1937" ;
+    ns:wikidataID "Q133846" .
+
+ns:George_Porter ns:isim "George Porter" ;
+    ns:nobelDali "Nobel Prize in Chemistry" ;
+    ns:nobelYili "1967" ;
+    ns:wikidataID "Q106762" .
+
+ns:Georges_Charpak ns:isim "Georges Charpak" ;
+    ns:nobelDali "Nobel Prize in Physics" ;
+    ns:nobelYili "1992" ;
+    ns:wikidataID "Q153178" .
+
+ns:Gerhard_Domagk ns:isim "Gerhard Domagk" ;
+    ns:wikidataID "Q57192" .
+
+ns:Gerhard_Ertl ns:isim "Gerhard Ertl" ;
+    ns:nobelDali "Nobel Prize in Chemistry" ;
+    ns:nobelYili "2007" ;
+    ns:wikidataID "Q60066" .
+
+ns:Gertrude_B._Elion ns:isim "Gertrude B. Elion" ;
+    ns:wikidataID "Q35703" .
+
+ns:Glenn_T._Seaborg ns:isim "Glenn T. Seaborg" ;
+    ns:nobelDali "Nobel Prize in Chemistry" ;
+    ns:nobelYili "1951" ;
+    ns:wikidataID "Q48973" .
+
+ns:Guglielmo_Marconi ns:isim "Guglielmo Marconi" ;
+    ns:nobelDali "Nobel Prize in Physics" ;
+    ns:nobelYili "1909" ;
+    ns:wikidataID "Q36488" .
+
+ns:Gustaf_Dalén ns:isim "Gustaf Dalén" ;
+    ns:nobelDali "Nobel Prize in Physics" ;
+    ns:nobelYili "1912" ;
+    ns:wikidataID "Q160518" .
+
+ns:Gustav_Ludwig_Hertz ns:isim "Gustav Ludwig Hertz" ;
+    ns:nobelDali "Nobel Prize in Physics" ;
+    ns:nobelYili "1925" ;
+    ns:wikidataID "Q57070" .
+
+ns:Günter_Blobel ns:isim "Günter Blobel" ;
+    ns:wikidataID "Q60108" .
+
+ns:Hannes_Alfvén ns:isim "Hannes Alfvén" ;
+    ns:nobelDali "Nobel Prize in Physics" ;
+    ns:nobelYili "1970" ;
+    ns:wikidataID "Q54945" .
+
+ns:Hans_Bethe ns:isim "Hans Bethe" ;
+    ns:nobelDali "Nobel Prize in Physics" ;
+    ns:nobelYili "1967" ;
+    ns:wikidataID "Q155794" .
+
+ns:Hans_Fischer ns:isim "Hans Fischer" ;
+    ns:nobelDali "Nobel Prize in Chemistry" ;
+    ns:nobelYili "1930" ;
+    ns:wikidataID "Q76604" .
+
+ns:Hans_Krebs ns:isim "Hans Krebs" ;
+    ns:wikidataID "Q57191" .
+
+ns:Hans_Spemann ns:isim "Hans Spemann" ;
+    ns:wikidataID "Q57568" .
+
+ns:Harald_zur_Hausen ns:isim "Harald zur Hausen" ;
+    ns:wikidataID "Q75847" .
+
+ns:Hendrik_Lorentz ns:isim "Hendrik Lorentz" ;
+    ns:nobelDali "Nobel Prize in Physics" ;
+    ns:nobelYili "1902" ;
+    ns:wikidataID "Q41688" .
+
+ns:Henri_Becquerel ns:isim "Henri Becquerel" ;
+    ns:nobelDali "Nobel Prize in Physics" ;
+    ns:nobelYili "1903" ;
+    ns:wikidataID "Q41269" .
+
+ns:Henry_Hallett_Dale ns:isim "Henry Hallett Dale" ;
+    ns:wikidataID "Q72194" .
+
+ns:Herbert_A._Hauptman ns:isim "Herbert A. Hauptman" ;
+    ns:nobelDali "Nobel Prize in Chemistry" ;
+    ns:nobelYili "1985" ;
+    ns:wikidataID "Q107422" .
+
+ns:Hermann_Staudinger ns:isim "Hermann Staudinger" ;
+    ns:nobelDali "Nobel Prize in Chemistry" ;
+    ns:nobelYili "1953" ;
+    ns:wikidataID "Q48956" .
+
+ns:Hideki_Shirakawa ns:isim "Hideki Shirakawa" ;
+    ns:nobelDali "Nobel Prize in Chemistry" ;
+    ns:nobelYili "2000" ;
+    ns:wikidataID "Q110916" .
+
+ns:Hideki_Yukawa ns:isim "Hideki Yukawa" ;
+    ns:nobelDali "Nobel Prize in Physics" ;
+    ns:nobelYili "1949" ;
+    ns:wikidataID "Q155777" .
+
+ns:Irène_Joliot-Curie ns:isim "Irène Joliot-Curie" ;
+    ns:nobelDali "Nobel Prize in Chemistry" ;
+    ns:nobelYili "1936" ;
+    ns:wikidataID "Q7504" .
+
+ns:Isidor_Isaac_Rabi ns:isim "Isidor Isaac Rabi" ;
+    ns:nobelDali "Nobel Prize in Physics" ;
+    ns:nobelYili "1944" ;
+    ns:wikidataID "Q165969" .
+
+ns:Ivan_Pavlov ns:isim "Ivan Pavlov" ;
+    ns:wikidataID "Q42985" .
+
+ns:J._J._Thomson ns:isim "J. J. Thomson" ;
+    ns:nobelDali "Nobel Prize in Physics" ;
+    ns:nobelYili "1906" ;
+    ns:wikidataID "Q47141" .
+
+ns:Jack_Steinberger ns:isim "Jack Steinberger" ;
+    ns:nobelDali "Nobel Prize in Physics" ;
+    ns:nobelYili "1988" ;
+    ns:wikidataID "Q153210" .
+
+ns:James_B._Sumner ns:isim "James B. Sumner" ;
+    ns:nobelDali "Nobel Prize in Chemistry" ;
+    ns:nobelYili "1946" ;
+    ns:wikidataID "Q106756" .
+
+ns:James_Franck ns:isim "James Franck" ;
+    ns:nobelDali "Nobel Prize in Physics" ;
+    ns:nobelYili "1925" ;
+    ns:wikidataID "Q57066" .
+
+ns:Jean-Marie_Lehn ns:isim "Jean-Marie Lehn" ;
+    ns:nobelDali "Nobel Prize in Chemistry" ;
+    ns:nobelYili "1987" ;
+    ns:wikidataID "Q107690" .
+
+ns:Jean_Perrin ns:isim "Jean Perrin" ;
+    ns:nobelDali "Nobel Prize in Physics" ;
+    ns:nobelYili "1926" ;
+    ns:wikidataID "Q134085" .
+
+ns:Jennifer_Doudna ns:isim "Jennifer Doudna" ;
+    ns:nobelDali "Nobel Prize in Chemistry" ;
+    ns:nobelYili "2020" ;
+    ns:wikidataID "Q56068" .
+
+ns:Jerome_Karle ns:isim "Jerome Karle" ;
+    ns:nobelDali "Nobel Prize in Chemistry" ;
+    ns:nobelYili "1985" ;
+    ns:wikidataID "Q106733" .
+
+ns:Johannes_Stark ns:isim "Johannes Stark" ;
+    ns:nobelDali "Nobel Prize in Physics" ;
+    ns:nobelYili "1919" ;
+    ns:wikidataID "Q57092" .
+
+ns:John_Bardeen ns:isim "John Bardeen" ;
+    ns:nobelDali "Nobel Prize in Physics" ;
+    ns:nobelYili "1972" ;
+    ns:wikidataID "Q949" .
+
+ns:John_Cornforth ns:isim "John Cornforth" ;
+    ns:nobelDali "Nobel Prize in Chemistry" ;
+    ns:nobelYili "1975" ;
+    ns:wikidataID "Q135154" .
+
+ns:John_Fenn ns:isim "John Fenn" ;
+    ns:nobelDali "Nobel Prize in Chemistry" ;
+    ns:nobelYili "2002" ;
+    ns:wikidataID "Q106738" .
+
+ns:John_Howard_Northrop ns:isim "John Howard Northrop" ;
+    ns:nobelDali "Nobel Prize in Chemistry" ;
+    ns:nobelYili "1946" ;
+    ns:wikidataID "Q106399" .
+
+ns:John_Robert_Schrieffer ns:isim "John Robert Schrieffer" ;
+    ns:nobelDali "Nobel Prize in Physics" ;
+    ns:nobelYili "1972" ;
+    ns:wikidataID "Q153201" .
+
+ns:Karl_Barry_Sharpless ns:isim "Karl Barry Sharpless" ;
+    ns:nobelDali "Nobel Prize in Chemistry" ;
+    ns:nobelYili "2022" ;
+    ns:wikidataID "Q110925" .
+
+ns:Karl_von_Frisch ns:isim "Karl von Frisch" ;
+    ns:wikidataID "Q60060" .
+
+ns:Koichi_Tanaka ns:isim "Koichi Tanaka" ;
+    ns:nobelDali "Nobel Prize in Chemistry" ;
+    ns:nobelYili "2002" ;
+    ns:wikidataID "Q110963" .
+
+ns:Konrad_Emil_Bloch ns:isim "Konrad Emil Bloch" ;
+    ns:wikidataID "Q35698" .
+
+ns:Kurt_Alder ns:isim "Kurt Alder" ;
+    ns:nobelDali "Nobel Prize in Chemistry" ;
+    ns:nobelYili "1950" ;
+    ns:wikidataID "Q76595" .
+
+ns:Kurt_Wüthrich ns:isim "Kurt Wüthrich" ;
+    ns:nobelDali "Nobel Prize in Chemistry" ;
+    ns:nobelYili "2002" ;
+    ns:wikidataID "Q110957" .
+
+ns:Lars_Onsager ns:isim "Lars Onsager" ;
+    ns:nobelDali "Nobel Prize in Chemistry" ;
+    ns:nobelYili "1968" ;
+    ns:wikidataID "Q107405" .
+
+ns:Leopold_Ružička ns:isim "Leopold Ružička" ;
+    ns:nobelDali "Nobel Prize in Chemistry" ;
+    ns:nobelYili "1939" ;
+    ns:wikidataID "Q122996" .
+
+ns:Linus_Pauling ns:isim "Linus Pauling" ;
+    ns:nobelDali "Nobel Prize in Chemistry" ;
+    ns:nobelYili "1954" ;
+    ns:wikidataID "Q48983" .
+
+ns:Louis_Néel ns:isim "Louis Néel" ;
+    ns:nobelDali "Nobel Prize in Physics" ;
+    ns:nobelYili "1970" ;
+    ns:wikidataID "Q155781" .
+
+ns:Manne_Siegbahn ns:isim "Manne Siegbahn" ;
+    ns:nobelDali "Nobel Prize in Physics" ;
+    ns:nobelYili "1924" ;
+    ns:wikidataID "Q170741" .
+
+ns:Marie_Curie ns:isim "Marie Curie" ;
+    ns:nobelDali "Nobel Prize in Chemistry" ;
+    ns:nobelYili "1911" ;
+    ns:wikidataID "Q7186" .
+
+ns:Mario_Molina ns:isim "Mario Molina" ;
+    ns:nobelDali "Nobel Prize in Chemistry" ;
+    ns:nobelYili "1995" ;
+    ns:wikidataID "Q19045" .
+
+ns:Martin_Chalfie ns:isim "Martin Chalfie" ;
+    ns:nobelDali "Nobel Prize in Chemistry" ;
+    ns:nobelYili "2008" ;
+    ns:wikidataID "Q106699" .
+
+ns:Martin_Rodbell ns:isim "Martin Rodbell" ;
+    ns:wikidataID "Q60031" .
+
+ns:Masatoshi_Koshiba ns:isim "Masatoshi Koshiba" ;
+    ns:nobelDali "Nobel Prize in Physics" ;
+    ns:nobelYili "2002" ;
+    ns:wikidataID "Q155773" .
+
+ns:Max_Planck ns:isim "Max Planck" ;
+    ns:nobelDali "Nobel Prize in Physics" ;
+    ns:nobelYili "1918" ;
+    ns:wikidataID "Q9021" .
+
+ns:Max_Theiler ns:isim "Max Theiler" ;
+    ns:wikidataID "Q46928" .
+
+ns:Melvin_Calvin ns:isim "Melvin Calvin" ;
+    ns:nobelDali "Nobel Prize in Chemistry" ;
+    ns:nobelYili "1961" ;
+    ns:wikidataID "Q49347" .
+
+ns:Niels_Bohr ns:isim "Niels Bohr" ;
+    ns:nobelDali "Nobel Prize in Physics" ;
+    ns:nobelYili "1922" .
+
+ns:Nikolay_Semyonov ns:isim "Nikolay Semyonov" ;
+    ns:nobelDali "Nobel Prize in Chemistry" ;
+    ns:nobelYili "1956" ;
+    ns:wikidataID "Q48990" .
+
+ns:Otto_Fritz_Meyerhof ns:isim "Otto Fritz Meyerhof" ;
+    ns:wikidataID "Q57132" .
+
+ns:Otto_Hahn ns:isim "Otto Hahn" ;
+    ns:nobelDali "Nobel Prize in Chemistry" ;
+    ns:nobelYili "1944" ;
+    ns:wikidataID "Q57065" .
+
+ns:Otto_Stern ns:isim "Otto Stern" ;
+    ns:nobelDali "Nobel Prize in Physics" ;
+    ns:nobelYili "1943" ;
+    ns:wikidataID "Q57072" .
+
+ns:Otto_Wallach ns:isim "Otto Wallach" ;
+    ns:nobelDali "Nobel Prize in Chemistry" ;
+    ns:nobelYili "1910" ;
+    ns:wikidataID "Q57127" .
+
+ns:Owen_Willans_Richardson ns:isim "Owen Willans Richardson" ;
+    ns:nobelDali "Nobel Prize in Physics" ;
+    ns:nobelYili "1928" ;
+    ns:wikidataID "Q169330" .
+
+ns:Paul_Dirac ns:isim "Paul Dirac" ;
+    ns:nobelDali "Nobel Prize in Physics" ;
+    ns:nobelYili "1933" ;
+    ns:wikidataID "Q47480" .
+
+ns:Paul_Ehrlich ns:isim "Paul Ehrlich" ;
+    ns:wikidataID "Q57089" .
+
+ns:Paul_Josef_Crutzen ns:isim "Paul Josef Crutzen" ;
+    ns:nobelDali "Nobel Prize in Chemistry" ;
+    ns:nobelYili "1995" ;
+    ns:wikidataID "Q135139" .
+
+ns:Paul_Sabatier ns:isim "Paul Sabatier" ;
+    ns:nobelDali "Nobel Prize in Chemistry" ;
+    ns:nobelYili "1912" ;
+    ns:wikidataID "Q104575" .
+
+ns:Percy_Williams_Bridgman ns:isim "Percy Williams Bridgman" ;
+    ns:nobelDali "Nobel Prize in Physics" ;
+    ns:nobelYili "1946" ;
+    ns:wikidataID "Q172118" .
+
+ns:Peter_Debye ns:isim "Peter Debye" ;
+    ns:nobelDali "Nobel Prize in Chemistry" ;
+    ns:nobelYili "1936" ;
+    ns:wikidataID "Q103835" .
+
+ns:Philipp_Lenard ns:isim "Philipp Lenard" ;
+    ns:nobelDali "Nobel Prize in Physics" ;
+    ns:nobelYili "1905" ;
+    ns:wikidataID "Q57063" .
+
+ns:Pierre_Curie ns:isim "Pierre Curie" ;
+    ns:nobelDali "Nobel Prize in Physics" ;
+    ns:nobelYili "1903" ;
+    ns:wikidataID "Q37463" .
+
+ns:Richard_Ernst ns:isim "Richard Ernst" ;
+    ns:nobelDali "Nobel Prize in Chemistry" ;
+    ns:nobelYili "1991" ;
+    ns:wikidataID "Q122272" .
+
+ns:Richard_F._Heck ns:isim "Richard F. Heck" ;
+    ns:nobelDali "Nobel Prize in Chemistry" ;
+    ns:nobelYili "2010" ;
+    ns:wikidataID "Q106471" .
+
+ns:Richard_Feynman ns:isim "Richard Feynman" ;
+    ns:nobelDali "Nobel Prize in Physics" ;
+    ns:nobelYili "1965" ;
+    ns:wikidataID "Q39246" .
+
+ns:Richard_Laurence_Millington_Synge ns:isim "Richard Laurence Millington Synge" ;
+    ns:nobelDali "Nobel Prize in Chemistry" ;
+    ns:nobelYili "1952" ;
+    ns:wikidataID "Q48979" .
+
+ns:Richard_Smalley ns:isim "Richard Smalley" ;
+    ns:nobelDali "Nobel Prize in Chemistry" ;
+    ns:nobelYili "1996" ;
+    ns:wikidataID "Q106746" .
+
+ns:Robert_Curl ns:isim "Robert Curl" ;
+    ns:nobelDali "Nobel Prize in Chemistry" ;
+    ns:nobelYili "1996" ;
+    ns:wikidataID "Q110930" .
+
+ns:Robert_Koch ns:isim "Robert Koch" ;
+    ns:wikidataID "Q37193" .
+
+ns:Robert_Robinson ns:isim "Robert Robinson" ;
+    ns:nobelDali "Nobel Prize in Chemistry" ;
+    ns:nobelYili "1947" ;
+    ns:wikidataID "Q49351" .
+
+ns:Rudolf_Mössbauer ns:isim "Rudolf Mössbauer" ;
+    ns:nobelDali "Nobel Prize in Physics" ;
+    ns:nobelYili "1961" ;
+    ns:wikidataID "Q44286" .
+
+ns:Russell_Alan_Hulse ns:isim "Russell Alan Hulse" ;
+    ns:nobelDali "Nobel Prize in Physics" ;
+    ns:nobelYili "1993" ;
+    ns:wikidataID "Q156286" .
+
+ns:Stanford_Moore ns:isim "Stanford Moore" ;
+    ns:nobelDali "Nobel Prize in Chemistry" ;
+    ns:nobelYili "1972" ;
+    ns:wikidataID "Q110952" .
+
+ns:Subrahmanyan_Chandrasekhar ns:isim "Subrahmanyan Chandrasekhar" ;
+    ns:nobelDali "Nobel Prize in Physics" ;
+    ns:nobelYili "1983" ;
+    ns:wikidataID "Q148109" .
+
+ns:Thomas_A._Steitz ns:isim "Thomas A. Steitz" ;
+    ns:nobelDali "Nobel Prize in Chemistry" ;
+    ns:nobelYili "2009" ;
+    ns:wikidataID "Q109559" .
+
+ns:Thomas_Cech ns:isim "Thomas Cech" ;
+    ns:nobelDali "Nobel Prize in Chemistry" ;
+    ns:nobelYili "1989" ;
+    ns:wikidataID "Q135180" .
+
+ns:Venkatraman_Ramakrishnan ns:isim "Venkatraman Ramakrishnan" ;
+    ns:nobelDali "Nobel Prize in Chemistry" ;
+    ns:nobelYili "2009" ;
+    ns:wikidataID "Q60061" .
+
+ns:Victor_Grignard ns:isim "Victor Grignard" ;
+    ns:nobelDali "Nobel Prize in Chemistry" ;
+    ns:nobelYili "1912" ;
+    ns:wikidataID "Q104582" .
+
+ns:Vincent_du_Vigneaud ns:isim "Vincent du Vigneaud" ;
+    ns:nobelDali "Nobel Prize in Chemistry" ;
+    ns:nobelYili "1955" ;
+    ns:wikidataID "Q33128" .
+
+ns:Walther_Nernst ns:isim "Walther Nernst" ;
+    ns:nobelDali "Nobel Prize in Chemistry" ;
+    ns:nobelYili "1920" ;
+    ns:wikidataID "Q57125" .
+
+ns:Wendell_Meredith_Stanley ns:isim "Wendell Meredith Stanley" ;
+    ns:nobelDali "Nobel Prize in Chemistry" ;
+    ns:nobelYili "1946" ;
+    ns:wikidataID "Q105937" .
+
+ns:Werner_Heisenberg ns:isim "Werner Heisenberg" ;
+    ns:nobelDali "Nobel Prize in Physics" ;
+    ns:nobelYili "1932" ;
+    ns:wikidataID "Q40904" .
+
+ns:Wilhelm_Ostwald ns:isim "Wilhelm Ostwald" ;
+    ns:nobelDali "Nobel Prize in Chemistry" ;
+    ns:nobelYili "1909" ;
+    ns:wikidataID "Q12658" .
+
+ns:Wilhelm_Röntgen ns:isim "Wilhelm Röntgen" ;
+    ns:nobelDali "Nobel Prize in Physics" ;
+    ns:nobelYili "1901" ;
+    ns:wikidataID "Q35149" .
+
+ns:Wilhelm_Wien ns:isim "Wilhelm Wien" ;
+    ns:nobelDali "Nobel Prize in Physics" ;
+    ns:nobelYili "1911" ;
+    ns:wikidataID "Q57068" .
+
+ns:William_Alfred_Fowler ns:isim "William Alfred Fowler" ;
+    ns:nobelDali "Nobel Prize in Physics" ;
+    ns:nobelYili "1983" ;
+    ns:wikidataID "Q46120" .
+
+ns:William_Giauque ns:isim "William Giauque" ;
+    ns:nobelDali "Nobel Prize in Chemistry" ;
+    ns:nobelYili "1949" ;
+    ns:wikidataID "Q110073" .
+
+ns:William_Lipscomb ns:isim "William Lipscomb" ;
+    ns:nobelDali "Nobel Prize in Chemistry" ;
+    ns:nobelYili "1976" ;
+    ns:wikidataID "Q110935" .
+
+ns:William_Shockley ns:isim "William Shockley" ;
+    ns:nobelDali "Nobel Prize in Physics" ;
+    ns:nobelYili "1956" ;
+    ns:wikidataID "Q163415" .
+
+ns:William_Standish_Knowles ns:isim "William Standish Knowles" ;
+    ns:nobelDali "Nobel Prize in Chemistry" ;
+    ns:nobelYili "2001" ;
+    ns:wikidataID "Q110947" .
+
