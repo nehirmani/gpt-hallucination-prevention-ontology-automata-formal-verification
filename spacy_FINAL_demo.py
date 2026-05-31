@@ -316,7 +316,5 @@ for konu in ['Albert Einstein', 'Niels Bohr', 'Max Planck']:
     for cumle in cumleler:
         halusinasyon_onle(cumle)
 
-# ============================================================
-# HUCRE 11
-# ============================================================
+
 
