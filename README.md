@@ -1,4 +1,4 @@
-# GPT Halüsinasyonlarının Ontoloji ve Otomata Tabanlı Önlenmesi
+# GPT Halüsinasyonlarının Önlenmesi : Ontoloji Tabanlı ve Otomata Destekli Biçimsel Doğrulama Sistemi
 
 > **Biçimsel Diller ve Otomatlar Dersi — Grup B, Proje 2**  
 > Eskişehir Osmangazi Üniversitesi — Bilgisayar Mühendisliği
