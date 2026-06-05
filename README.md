@@ -1,6 +1,6 @@
 # GPT Halüsinasyonlarının Önlenmesi : Ontoloji Tabanlı ve Otomata Destekli Biçimsel Doğrulama Sistemi
 
-> **Biçimsel Diller ve Otomatlar Dersi — Grup B, Proje 2**  
+> **Biçimsel Diller ve Otomatlar Dersi — Grup B, 2. Proje Grubu**  
 > Eskişehir Osmangazi Üniversitesi — Bilgisayar Mühendisliği
 
 ---
@@ -12,7 +12,7 @@
 | Nehir Mani | Proje Yöneticisi |
 | Semiha Berra Açıkgöz | PDA Tasarımı |
 | Anıl Akyürek | Ontoloji Geliştirme |
-| Dilara Sunaç | Pipeline ve DFA/CFG Implementasyonu |
+| Dilara Sunaç | Pipeline ve DFA/CFG İmplementasyonu |
 
 ---
 
